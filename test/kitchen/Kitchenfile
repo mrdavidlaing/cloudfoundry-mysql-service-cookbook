@@ -1,0 +1,6 @@
+cookbook "cloudfoundry-mysql-service" do
+  configuration "gateway"
+  configuration "install55"
+  configuration "node_with_mysql55"
+  runtimes []
+end
